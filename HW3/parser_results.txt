@@ -1,0 +1,129 @@
+Было обработано 2 страниц 
+Всего вакансий: 42
+--------------------
+https://hh.ru | Python Developer Middle / Senior (SberDevices/ Платформа Layer - монетизация видео-контента) | 180000-350000-руб
+https://kemerovo.hh.ru/vacancy/46066760?query=python
+--------------------
+https://hh.ru | Data Scientist | None-None-None
+https://kemerovo.hh.ru/vacancy/46079759?query=python
+--------------------
+https://hh.ru | Machine Learning Engineer (команда Поиска) | None-None-None
+https://kemerovo.hh.ru/vacancy/46048820?query=python
+--------------------
+https://hh.ru | Python developer | 4000-None-USD
+https://kemerovo.hh.ru/vacancy/30005963?query=python
+--------------------
+https://hh.ru | Стажер разработчик Python | 20000-50000-руб
+https://kemerovo.hh.ru/vacancy/46006596?query=python
+--------------------
+https://hh.ru | Junior разработчик Python Django | 40000-80000-руб
+https://kemerovo.hh.ru/vacancy/45517979?query=python
+--------------------
+https://hh.ru | Junior Python разработчик/ тестировщик | None-35000-руб
+https://kemerovo.hh.ru/vacancy/46065310?query=python
+--------------------
+https://hh.ru | Junior Data Engineer (Python) | 100000-140000-руб
+https://kemerovo.hh.ru/vacancy/45375879?query=python
+--------------------
+https://hh.ru | Python-разработчик (Django, DRF) | 60000-150000-руб
+https://kemerovo.hh.ru/vacancy/39736489?query=python
+--------------------
+https://hh.ru | Разработчик Python | 180000-None-руб
+https://kemerovo.hh.ru/vacancy/45793420?query=python
+--------------------
+https://hh.ru | Разработчик Python (Junior) | None-None-None
+https://kemerovo.hh.ru/vacancy/46062966?query=python
+--------------------
+https://hh.ru | Middle QA Automation Engineer (Python) | 180000-250000-руб
+https://kemerovo.hh.ru/vacancy/43394113?query=python
+--------------------
+https://hh.ru | Программист Python | 210000-None-руб
+https://kemerovo.hh.ru/vacancy/45943518?query=python
+--------------------
+https://hh.ru | Программист Python | 120000-150000-руб
+https://kemerovo.hh.ru/vacancy/45986553?query=python
+--------------------
+https://hh.ru | Разработчик-Python (Django, DRF) | 170000-220000-руб
+https://kemerovo.hh.ru/vacancy/43242292?query=python
+--------------------
+https://hh.ru | Data Scientist | 3000-5000-USD
+https://kemerovo.hh.ru/vacancy/46012355?query=python
+--------------------
+https://hh.ru | Python-разработчик в Паспорт | None-None-None
+https://kemerovo.hh.ru/vacancy/45162547?query=python
+--------------------
+https://hh.ru | Ведущий Python разработчик | 200000-350000-руб
+https://kemerovo.hh.ru/vacancy/46030221?query=python
+--------------------
+https://hh.ru | Senior Python Backend Developer (Machine Learning) | 250000-350000-руб
+https://kemerovo.hh.ru/vacancy/39388485?query=python
+--------------------
+https://hh.ru | Python разработчик (удаленно) | 130000-None-руб
+https://kemerovo.hh.ru/vacancy/45587032?query=python
+--------------------
+https://hh.ru | Data Science Specialist | 150000-220000-руб
+https://kemerovo.hh.ru/vacancy/46074731?query=python
+--------------------
+https://hh.ru | Разработчик Python (Junior) | None-None-None
+https://kemerovo.hh.ru/vacancy/46062966?query=python
+--------------------
+https://hh.ru | Разработчик Python / Data Engineer | 150000-None-руб
+https://kemerovo.hh.ru/vacancy/45627188?query=python
+--------------------
+https://hh.ru | Python-разработчик | None-None-None
+https://kemerovo.hh.ru/vacancy/45991253?query=python
+--------------------
+https://hh.ru | Старший разработчик на Python (Senior Python developer) | 100000-None-руб
+https://kemerovo.hh.ru/vacancy/45950131?query=python
+--------------------
+https://hh.ru | Python-разработчик во Flow | None-None-None
+https://kemerovo.hh.ru/vacancy/45987511?query=python
+--------------------
+https://hh.ru | Team Lead Python | 200000-300000-руб
+https://kemerovo.hh.ru/vacancy/45567271?query=python
+--------------------
+https://hh.ru | Python разработчик | None-None-None
+https://kemerovo.hh.ru/vacancy/46021256?query=python
+--------------------
+https://hh.ru | Middle QA Automation Engineer (Python) | 180000-250000-руб
+https://kemerovo.hh.ru/vacancy/43394113?query=python
+--------------------
+https://hh.ru | Программист Python | 100000-200000-руб
+https://kemerovo.hh.ru/vacancy/46016705?query=python
+--------------------
+https://hh.ru | Бэк-энд разработчик (Python, SQL) | 100000-160000-руб
+https://kemerovo.hh.ru/vacancy/41095804?query=python
+--------------------
+https://hh.ru | Python разработчик (middle) (backend) | None-500000-руб
+https://kemerovo.hh.ru/vacancy/43941903?query=python
+--------------------
+https://hh.ru | Junior Data Engineer | 80000-120000-руб
+https://kemerovo.hh.ru/vacancy/45827027?query=python
+--------------------
+https://hh.ru | Старший python-разработчик | 170000-220000-руб
+https://kemerovo.hh.ru/vacancy/45603894?query=python
+--------------------
+https://hh.ru | Data Scientist | None-None-None
+https://kemerovo.hh.ru/vacancy/46024161?query=python
+--------------------
+https://hh.ru | Программист Python | None-None-None
+https://kemerovo.hh.ru/vacancy/43998374?query=python
+--------------------
+https://hh.ru | Middle Python developer (релокация в Сочи) | 150000-None-руб
+https://kemerovo.hh.ru/vacancy/45414767?query=python
+--------------------
+https://hh.ru | Data Mining Specialist / Data Scientist | 140000-None-руб
+https://kemerovo.hh.ru/vacancy/45522474?query=python
+--------------------
+https://hh.ru | Python-разработчик в Процессы бэк-офиса | None-None-None
+https://kemerovo.hh.ru/vacancy/45984455?query=python
+--------------------
+https://hh.ru | Regular Python Developer | None-None-None
+https://kemerovo.hh.ru/vacancy/45991820?query=python
+--------------------
+https://www.superjob.ru | Специалист службы поддержки (с техническими знаниями) | 15000-None-руб
+https://www.superjob.ru/vakansii/specialist-sluzhby-podderzhki-37984556.html
+--------------------
+https://www.superjob.ru | Специалист службы поддержки (с техническими знаниями) | 15000-None-руб
+https://www.superjob.ru/vakansii/specialist-sluzhby-podderzhki-37984556.html
+--------------------
